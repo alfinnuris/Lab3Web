@@ -5,7 +5,7 @@ Nama : Alfin Nuris Setiadi
 
 NIM : 311910738 
 
-Kelas : TI19B1 
+Kelas : TI.19.B1 
 
 Prodi : Teknik Informatika 
 
