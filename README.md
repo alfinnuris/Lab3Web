@@ -1,5 +1,5 @@
 # Leb3Web
-membuat menu dropdown dan listbox.
+Membuat menu dropdown dan listbox.
 
 Nama : Alfin Nuris Setiadi 
 
